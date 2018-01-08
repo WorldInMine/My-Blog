@@ -35,6 +35,7 @@ public final class Commons {
         return paginator == null || (paginator.getList() == null) || (paginator.getList().size() == 0);
     }
 
+
     /**
      * 网站链接
      *
